@@ -8,6 +8,10 @@ Users will need to obtain an API key for both of the above APIs from the respect
 
 OpenAI at the time of development produce the most realistic conversational AIs that exist, hence was chosen for the chatbot's responses.
 
+## Talking with Pierre
+
+A non-exhaustive but essenital list of libraries and the versions used is included in the requirements.txt file. The user should install these in the projects virtual environment, and then can run the app simply by calling pierre.py and interacting with the chatbot using the terminal. The code has been commented where possible to give developers an idea of how the app works, and allow for individual customisation where desired.
+
 ## Further improvements
 
 Further iterations of this project include fine tuning existing models on labeled data of [CEFR score](https://tracktest.eu/english-levels-cefr/#:~:text=How%20many%20language%20levels%20are,%2DC2%20(Proficient%20User).) examples, and estimating the user's french level using this based on their responses.
