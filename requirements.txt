@@ -1,0 +1,7 @@
+speechmatics-python==2.0.2
+wavio==0.0.9
+huggingface-hub==0.24.7
+openai==1.51.2
+httpx==0.25.2
+pyttsx3==2.98
+sounddevice==0.5.1
